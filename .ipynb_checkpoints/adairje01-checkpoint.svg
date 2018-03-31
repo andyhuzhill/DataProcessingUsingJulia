@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="152.4mm" height="76.2mm" viewBox="0 0 152.4 76.2"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot xscalable yscalable" id="img-b9b2c559-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-b9b2c559-2">
+    <text x="82.11" y="64.59" text-anchor="middle" dy="0.6em">x</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-b9b2c559-3">
+    <text x="18.83" y="57.91" text-anchor="middle" dy="0.6em">20</text>
+    <text x="61.02" y="57.91" text-anchor="middle" dy="0.6em">25</text>
+    <text x="103.21" y="57.91" text-anchor="middle" dy="0.6em">30</text>
+    <text x="145.4" y="57.91" text-anchor="middle" dy="0.6em">35</text>
+  </g>
+<g clip-path="url(#img-b9b2c559-4)">
+  <g id="img-b9b2c559-5">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-b9b2c559-6">
+      <rect x="16.83" y="5" width="130.57" height="51.91"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-b9b2c559-7">
+      <path fill="none" d="M16.83,54.91 L 147.4 54.91"/>
+      <path fill="none" d="M16.83,46.93 L 147.4 46.93"/>
+      <path fill="none" d="M16.83,38.94 L 147.4 38.94"/>
+      <path fill="none" d="M16.83,30.96 L 147.4 30.96"/>
+      <path fill="none" d="M16.83,22.97 L 147.4 22.97"/>
+      <path fill="none" d="M16.83,14.99 L 147.4 14.99"/>
+      <path fill="none" d="M16.83,7 L 147.4 7"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-b9b2c559-8">
+      <path fill="none" d="M18.83,5 L 18.83 56.91"/>
+      <path fill="none" d="M61.02,5 L 61.02 56.91"/>
+      <path fill="none" d="M103.21,5 L 103.21 56.91"/>
+      <path fill="none" d="M145.4,5 L 145.4 56.91"/>
+    </g>
+    <g class="plotpanel" id="img-b9b2c559-9">
+      <g stroke-width="0.3" fill="#000000" fill-opacity="0.000" class="geometry" stroke-dasharray="none" stroke="#00BFFF" id="img-b9b2c559-10">
+        <path fill="none" d="M35.7,45.1 L 44.14 28.28 52.58 7.93 61.02 24.79 69.46 24.02 77.89 29.36 86.33 29.75 94.77 28.1 103.21 29.3 111.65 46.61 120.09 36.17 128.52 31.77 136.96 38.69"/>
+      </g>
+      <g class="geometry" id="img-b9b2c559-11">
+        <g stroke-width="0.3" id="img-b9b2c559-12">
+          <g class="color_RGBA{Float32}(0.0f0,0.74736935f0,1.0f0,1.0f0)" stroke="#FFFFFF" fill="#00BFFF" id="img-b9b2c559-13">
+            <use xlink:href="#img-b9b2c559-14" x="86.33" y="29.75"/>
+          </g>
+          <g class="color_RGBA{Float32}(0.0f0,0.74736935f0,1.0f0,1.0f0)" stroke="#FFFFFF" fill="#00BFFF" id="img-b9b2c559-15">
+            <use xlink:href="#img-b9b2c559-16" x="77.89" y="29.36"/>
+          </g>
+          <g class="color_RGBA{Float32}(0.0f0,0.74736935f0,1.0f0,1.0f0)" stroke="#FFFFFF" fill="#00BFFF" id="img-b9b2c559-17">
+            <use xlink:href="#img-b9b2c559-18" x="52.58" y="7.93"/>
+          </g>
+          <g class="color_RGBA{Float32}(0.0f0,0.74736935f0,1.0f0,1.0f0)" stroke="#FFFFFF" fill="#00BFFF" id="img-b9b2c559-19">
+            <use xlink:href="#img-b9b2c559-20" x="128.52" y="31.77"/>
+          </g>
+          <g class="color_RGBA{Float32}(0.0f0,0.74736935f0,1.0f0,1.0f0)" stroke="#FFFFFF" fill="#00BFFF" id="img-b9b2c559-21">
+            <use xlink:href="#img-b9b2c559-22" x="120.09" y="36.17"/>
+          </g>
+          <g class="color_RGBA{Float32}(0.0f0,0.74736935f0,1.0f0,1.0f0)" stroke="#FFFFFF" fill="#00BFFF" id="img-b9b2c559-23">
+            <use xlink:href="#img-b9b2c559-24" x="44.14" y="28.28"/>
+          </g>
+          <g class="color_RGBA{Float32}(0.0f0,0.74736935f0,1.0f0,1.0f0)" stroke="#FFFFFF" fill="#00BFFF" id="img-b9b2c559-25">
+            <use xlink:href="#img-b9b2c559-26" x="111.65" y="46.61"/>
+          </g>
+          <g class="color_RGBA{Float32}(0.0f0,0.74736935f0,1.0f0,1.0f0)" stroke="#FFFFFF" fill="#00BFFF" id="img-b9b2c559-27">
+            <use xlink:href="#img-b9b2c559-28" x="69.46" y="24.02"/>
+          </g>
+          <g class="color_RGBA{Float32}(0.0f0,0.74736935f0,1.0f0,1.0f0)" stroke="#FFFFFF" fill="#00BFFF" id="img-b9b2c559-29">
+            <use xlink:href="#img-b9b2c559-30" x="136.96" y="38.69"/>
+          </g>
+          <g class="color_RGBA{Float32}(0.0f0,0.74736935f0,1.0f0,1.0f0)" stroke="#FFFFFF" fill="#00BFFF" id="img-b9b2c559-31">
+            <use xlink:href="#img-b9b2c559-32" x="103.21" y="29.3"/>
+          </g>
+          <g class="color_RGBA{Float32}(0.0f0,0.74736935f0,1.0f0,1.0f0)" stroke="#FFFFFF" fill="#00BFFF" id="img-b9b2c559-33">
+            <use xlink:href="#img-b9b2c559-34" x="94.77" y="28.1"/>
+          </g>
+          <g class="color_RGBA{Float32}(0.0f0,0.74736935f0,1.0f0,1.0f0)" stroke="#FFFFFF" fill="#00BFFF" id="img-b9b2c559-35">
+            <use xlink:href="#img-b9b2c559-36" x="35.7" y="45.1"/>
+          </g>
+          <g class="color_RGBA{Float32}(0.0f0,0.74736935f0,1.0f0,1.0f0)" stroke="#FFFFFF" fill="#00BFFF" id="img-b9b2c559-37">
+            <use xlink:href="#img-b9b2c559-38" x="61.02" y="24.79"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-b9b2c559-39">
+    <text x="15.83" y="54.91" text-anchor="end" dy="0.35em">0.0</text>
+    <text x="15.83" y="46.93" text-anchor="end" dy="0.35em">0.1</text>
+    <text x="15.83" y="38.94" text-anchor="end" dy="0.35em">0.2</text>
+    <text x="15.83" y="30.96" text-anchor="end" dy="0.35em">0.3</text>
+    <text x="15.83" y="22.97" text-anchor="end" dy="0.35em">0.4</text>
+    <text x="15.83" y="14.99" text-anchor="end" dy="0.35em">0.5</text>
+    <text x="15.83" y="7" text-anchor="end" dy="0.35em">0.6</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-b9b2c559-40">
+    <text x="8.81" y="30.96" text-anchor="end" dy="0.35em">y</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-b9b2c559-4">
+  <path d="M16.83,5 L 147.4 5 147.4 56.91 16.83 56.91" />
+</clipPath>
+  <g id="img-b9b2c559-14">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+  <g id="img-b9b2c559-16">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+  <g id="img-b9b2c559-18">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+  <g id="img-b9b2c559-20">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+  <g id="img-b9b2c559-22">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+  <g id="img-b9b2c559-24">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+  <g id="img-b9b2c559-26">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+  <g id="img-b9b2c559-28">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+  <g id="img-b9b2c559-30">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+  <g id="img-b9b2c559-32">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+  <g id="img-b9b2c559-34">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+  <g id="img-b9b2c559-36">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+  <g id="img-b9b2c559-38">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+</defs>
+</svg>
